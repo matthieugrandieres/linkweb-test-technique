@@ -1,0 +1,25 @@
+section.contactez-nous{
+    background-color: #f0f2f5;
+}
+
+section.contactez-nous .contact{
+    background-color: white;
+    width: 50%;
+    display: block;
+    margin: auto;
+    border-bottom: 3px solid #69b8ca;
+}
+
+section.contactez-nous .contact p{
+    padding: 30px;  
+}
+
+section.contactez-nous form{
+    padding: 30px 20px;
+}
+
+@media (max-width: 576px) { 
+    section.contactez-nous .contact{
+        width: 100%;
+    }
+ }

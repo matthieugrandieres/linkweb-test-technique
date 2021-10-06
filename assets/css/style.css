@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&family=Poppins:wght@300;400;600&display=swap&family=Raleway:wght@600&display=swap');
+
+
+.container-fluid {
+    padding: 0;
+}
+
+.container{
+    padding: 100px 0;
+}
+
+h1{
+    font-family: 'Poppins';
+}
+
+h2{
+    text-align: center;
+    font-family: 'Raleway';
+}
+
+h3{
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+    font-family: 'Raleway';
+}
+
+p{
+    font-family: 'Open sans';
+    color: #444444;
+}
+
+img{
+    object-fit: cover;
+}
+
+.btn-blue{
+    background-color: #1c75bc;
+    color: white;
+    border-radius: 0;
+    width: 200px;
+    height: 50px;
+}
+
+.btn-blue:hover{
+    background-color: #69b8ca;
+    color: white;
+}
+
+.btn-blue-1{
+    background-color: #69b8ca;
+    color: white;
+    border-radius: 0;
+    width: 200px;
+    height: 50px;
+}
+
+.btn-blue-1:hover{
+    background-color: #1c75bc;
+    color: white;
+}
+

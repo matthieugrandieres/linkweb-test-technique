@@ -1,0 +1,23 @@
+section.notre-gamme{
+    background-color: #f0f2f5;
+}
+
+section.notre-gamme .content-text{
+    background-color: #26292A;
+}
+
+section.notre-gamme .content-text p{
+    padding: 30px;
+    color: white;
+    font-weight: lighter;
+}
+
+
+section.img-transition{
+    background-image: url("../img/clim-large.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}

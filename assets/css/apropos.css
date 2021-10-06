@@ -1,0 +1,11 @@
+section.a-propos-de-nous #content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+section.a-propos-de-nous #content p{
+    padding: 30px;
+}
+
